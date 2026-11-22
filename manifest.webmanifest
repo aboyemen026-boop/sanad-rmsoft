@@ -1,0 +1,13 @@
+{
+  "name": "سند — RM SOFT",
+  "short_name": "سند",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#060a14",
+  "theme_color": "#060a14",
+  "description": "نظام سند المحاسبي وشؤون الموظفين",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
